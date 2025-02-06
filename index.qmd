@@ -1,5 +1,15 @@
 ---
-title: "ClaraJordan.github.io"
+title: "Clara's Website"
+image: Clara.gpj
+about:
+  template: broadside
+  image-shape: circle
+  links: 
+    - LinkedIn
+    href: https://www.linkedin.com/in/claragjordan
+    - text:Email
+    href: 2023cjordan@gmail.com
+    - text: 
 ---
 
 This is a Quarto website.
