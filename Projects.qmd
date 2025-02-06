@@ -2,3 +2,8 @@
 title: "Projects"
 author: Clara Jordan
 ---
+
+Visit this link to see a project that I created about determining suitable wolverine habitat in Colorado through a GIS suitability analysis: [https://arcg.is/1Cqzf80](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farcg.is%2F1Cqzf80&data=05%7C02%7CClara.Jordan%40colostate.edu%7C7aa39b21058447d182aa08dd14ad3bfc%7Cafb58802ff7a4bb1ab21367ff2ecfc8b%7C0%7C0%7C638689456436352663%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B0Vw8vbaHgzgZgS9o8m3Cnhm0pwPIpSEuJ7KqeNEvz0%3D&reserved=0 "Original URL:
+https://arcg.is/1Cqzf80
+
+Click to follow link.")

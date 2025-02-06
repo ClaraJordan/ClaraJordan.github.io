@@ -2,3 +2,61 @@
 title: "Resume"
 author: Clara Jordan
 ---
+
+**Professional Summary**
+
+-   [Undergraduate environmental science student]{.underline} passionate about environmental conservation, mitigating climate change, and implementing sustainable strategies to preserve human and wildlife well-being. My future professional goals include working toward climate change risk management and aiding in global sustainable development through the lens of carbon governance.
+
+-   Technical Toolkit:  
+
+    -   *Data analysis:* Jamovi, OpenLCA, ArcGIS Pro, and Associates Certificates in Microsoft Word and Excel (2019 Microsoft Office).
+
+    -   *Communication:* Coursework in Scientific Writing, Public Communication in Natural Resources, Visual Literacy, and Leadership. Certification as a Project Learning Tree K-8 Environmental Educator. 
+
+    -   *Sustainability Analysis*: Coursework in Life Cycle for Sustainability (2006 ISO 14040 and 14044 based), Applications in Greenhouse Gas Inventories (IPCC 2006 Guideline based). 
+
+------------------------------------------------------------------------
+
+**Education**
+
+-   Bachelor of Science, Ecosystem Science and Sustainability (GPA 4.00, expected May 2025)
+
+-   Master of Professional Science, Ecosystem Science and Sustainability (GPA 4.00, expected August 2026)
+
+------------------------------------------------------------------------
+
+**Relevant Experience**
+
+-   *Aerobiology Undergraduate Intern* at Colorado State University OneHealth Institute ᐧ Fort Collins, CO from May to August 2024
+
+    -   Engaged in atmospheric microbe research in field and lab settings to identify spatial taxa variation. 
+
+    -   Applied bioinformatics (using Linux and QIIME2) and biostatistics principles to DNA sequencing and micro respiration analysis.
+
+    -   Effectively presented research in a concluding conference and enhanced the knowledge within the aerobiology arena.
+
+-   *Study Abroad: Social and Environmental Justice in Quito and Mindo, Ecuador*, through Colorado State University in August 2023.
+
+    -   Explored Ecuador’s political and environmental climate and history through lecture, hands-on activities, and research.
+
+    -   Engaged in environmental justice via education and reciprocity projects.
+
+    -   Communicated research findings in a final presentation.
+
+------------------------------------------------------------------------
+
+**Leadership Experience**
+
+-   *Coursework*
+
+    -   Promoting Geoscience Research, Education, and Success (PROGRESS) Peer Mentoring Program and Workshop in October 2023
+
+    -   Youth, Creativity, Innovation & Sustainable Leadership (YCISL) Innovators Toolkit Workshop through Stanford University in February 2021
+
+-   *Model United Nations Conferences*
+
+    -   Dar Es Salaam MUN 2021 (DARMUN X) as a delegate on the DISC council debating on international security in 2021
+
+    -   Zambia MUN (ZAMMUN) 2020 as a contributing organizer in 2020
+
+    -   WIMUN Geneva 2019 as a delegate on the ECOSOC council debating on sustainable development, received Diplomacy Award in 2019

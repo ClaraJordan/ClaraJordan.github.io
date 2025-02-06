@@ -1,15 +1,18 @@
 ---
 title: "Clara's Website"
-image: Clara.gpj
+image: Clara.jpg
 about:
-  template: broadside
-  image-shape: circle
+  template: jolla
+  image-shape: round
   links: 
-    - LinkedIn
-    href: https://www.linkedin.com/in/claragjordan
-    - text:Email
-    href: 2023cjordan@gmail.com
-    - text: 
+    - text: GitHub
+      href: https://github.com/ClaraJordan
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/claragjordan
+    - text: Email
+      href: 2023cjordan@gmail.com
+---
+
 ---
 
 This is a Quarto website.
