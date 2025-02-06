@@ -3,7 +3,12 @@ title: "Projects"
 author: Clara Jordan
 ---
 
-Visit this link to see a project that I created about determining suitable wolverine habitat in Colorado through a GIS suitability analysis: [https://arcg.is/1Cqzf80](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farcg.is%2F1Cqzf80&data=05%7C02%7CClara.Jordan%40colostate.edu%7C7aa39b21058447d182aa08dd14ad3bfc%7Cafb58802ff7a4bb1ab21367ff2ecfc8b%7C0%7C0%7C638689456436352663%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B0Vw8vbaHgzgZgS9o8m3Cnhm0pwPIpSEuJ7KqeNEvz0%3D&reserved=0 "Original URL:
-https://arcg.is/1Cqzf80
+Visit this [link](https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisstorymaps&response_type=token&expiration=20160&redirect_uri=https%3A%2F%2Fstorymaps.arcgis.com%2Foauth-callback%3FreturnURL%3D%252Fstories%252F934be7c488d64c40a81005f906f169f7&hideCancel=true&showSignupOption=true&force_login=true) to see a project that I created about determining suitable wolverine habitat in Colorado through a GIS suitability analysis.
 
-Click to follow link.")
+Some things that I learned in this project are:
+
+-   Curating sources of relevant data across topography, snowpack patterns, and transportation maps;
+
+-   Developing an ArcGIS model to perform suitability analysis and analyze results;
+
+-   Communicating results through an Arc StoryMap medium.
