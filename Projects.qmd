@@ -1,9 +1,16 @@
 ---
 title: "Projects"
 author: Clara Jordan
+
+format: 
+  html:
+    toc: true
+    toc-location: right
 ---
 
-Visit this [link](https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisstorymaps&response_type=token&expiration=20160&redirect_uri=https%3A%2F%2Fstorymaps.arcgis.com%2Foauth-callback%3FreturnURL%3D%252Fstories%252F934be7c488d64c40a81005f906f169f7&hideCancel=true&showSignupOption=true&force_login=true) to see a project that I created about determining suitable wolverine habitat in Colorado through a GIS suitability analysis.
+## GIS Habitat Suitability Analysis
+
+Visit this [link](https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisstorymaps&response_type=token&expiration=20160&redirect_uri=https%3A%2F%2Fstorymaps.arcgis.com%2Foauth-callback%3FreturnURL%3D%252Fstories%252F934be7c488d64c40a81005f906f169f7&hideCancel=true&showSignupOption=true&force_login=true) to see a project that I created about determining suitable wolverine habitat in Colorado through a GIS suitability analysis in ArcGIS WebMap.
 
 Some things that I learned in this project are:
 
@@ -12,3 +19,39 @@ Some things that I learned in this project are:
 -   Developing an ArcGIS model to perform suitability analysis and analyze results;
 
 -   Communicating results through an Arc StoryMap medium.
+
+## CSU ESS 330 Lab 2: COVID-19 Data Analysis
+
+Visit think [link](https://github.com/ClaraJordan/Lab2_MinnesotaTreeGrowth.git) to see a lab I worked on in my CSU ESS 330 course to work with Minnesota tree growth data.
+
+Some things I learned in this project are:
+
+-   Working with a data set through identifying data structure through columns, rows, and creating / renaming new columns;
+
+-   Summarizing data through grouping and using functions such as case when and if else;
+
+-   Analyzing grouped data and applying a piping structure through dplyr verbs.
+
+## CSU ESS 330 Lab 3: COVID-19 Data Analysis
+
+Visit this [link](https://github.com/ClaraJordan/CSUESS_Lab3_Covid.git) to see a project I worked on in my CSU ESS 330 course to analyze a COVID-19 data set curated by the New York Times.
+
+Some things that I learned in this project are:
+
+-   Normalizing data to optimize its formatting for analysis;
+
+-   Apply several calculations to produce rolling thresholds, death tolls, and case counts across temporal scales;
+
+-   Visualize COVID-19 case and death trends over spatial and temporal scales to effectively communicate trends in the data set.
+
+## CSU ESS 330 Lab 4: Statistical Analysis on Long Term Ecological Research Data
+
+Visit this [link](https://github.com/ClaraJordan/Lab4_LTER.git) to see another lab I worked on in my CSU ESS 330 course to conduct univariate and bivariate statistical analysis to analyze Andrews Forest Long-Term Ecological Research (LTER) facility in Oregon in the Cascade Mountains.
+
+Some things that I learned in this project are:
+
+-   Application of several statistical tests including t-tests, covariance analysis, ANOVA, and Post-hoc Tukey's HSD test;
+
+-   The steps to developing a regression model including testing for correlation between variables to avoid multicolinearity and testing statistical test assumptions;
+
+-   Visualizing statistical results through plotting linear regression models and assessing residual normality through QQ plots.

@@ -1,9 +1,14 @@
 ---
 title: "Resume"
 author: Clara Jordan
+
+format: 
+  html:
+    toc: true
+    toc-location: right
 ---
 
-**Professional Summary**
+## **Professional Summary**
 
 -   [Undergraduate environmental science student]{.underline} passionate about environmental conservation, mitigating climate change, and implementing sustainable strategies to preserve human and wildlife well-being. My future professional goals include working toward climate change risk management and aiding in global sustainable development through the lens of carbon governance.
 
@@ -17,7 +22,7 @@ author: Clara Jordan
 
 ------------------------------------------------------------------------
 
-**Education**
+## **Education**
 
 -   Bachelor of Science, Ecosystem Science and Sustainability (GPA 4.00, expected May 2025)
 
@@ -25,7 +30,7 @@ author: Clara Jordan
 
 ------------------------------------------------------------------------
 
-**Relevant Experience**
+## **Relevant Experience**
 
 -   *Aerobiology Undergraduate Intern* at Colorado State University OneHealth Institute ᐧ Fort Collins, CO from May to August 2024
 
@@ -45,7 +50,7 @@ author: Clara Jordan
 
 ------------------------------------------------------------------------
 
-**Leadership Experience**
+## **Leadership Experience**
 
 -   *Coursework*
 
