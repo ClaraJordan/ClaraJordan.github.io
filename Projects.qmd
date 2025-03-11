@@ -14,7 +14,7 @@ Visit this [link](https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id
 
 Some things that I learned in this project are:
 
--   Curating sources of relevant data across topography, snowpack patterns, and transportation maps;
+-   Curating sources of relevant data across topography, snowpack patterns, and transportation map data layers;
 
 -   Developing an ArcGIS model to perform suitability analysis and analyze results;
 
