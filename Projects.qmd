@@ -20,6 +20,16 @@ Some things that I learned in this project are:
 
 -   Communicating results through an Arc StoryMap medium.
 
+## CSU ESS 330 Lab 1: Creating a Quarto Website
+
+In my class of ESS 330 at CSU my first lab was to develop this Quarto website. Some skills I learned in this project are:
+
+-   Adding images and links to a website through RStudio;
+
+-   Formatting a Quarto website;
+
+-   Sharing information between RStudio, GitHub, and Quarto.
+
 ## CSU ESS 330 Lab 2: COVID-19 Data Analysis
 
 Visit think [link](https://github.com/ClaraJordan/Lab2_MinnesotaTreeGrowth.git) to see a lab I worked on in my CSU ESS 330 course to work with Minnesota tree growth data.
