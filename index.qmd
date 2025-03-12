@@ -10,7 +10,7 @@ about:
     - text: LinkedIn
       href: https://www.linkedin.com/in/claragjordan
     - text: Email
-      href: mailto: 2023cjordan@gmail.com
+      href: mailto:2023cjordan@gmail.com
 ---
 
 ------------------------------------------------------------------------
